@@ -1,4 +1,13 @@
 ### Hi there 👋
+- 👋 Hi, I'm Ben
+- 🔭 I’m currently working on machine learning with python
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on machine learning projects
+- 🤔 I’m looking for help with resources that could foster my learning
+- 💬 Ask me about UI | UX | Product designs
+- 📫 How to reach me: IG: @Obison360
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love team sports.
 
 <!--
 **Obison360/Obison360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
