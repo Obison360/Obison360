@@ -1,4 +1,3 @@
-### Hi there 👋
 - 👋 Hi, I'm Ben
 - 🔭 I’m currently working on machine learning with python
 - 🌱 I’m currently learning Python
